@@ -67,7 +67,6 @@ ul{
   padding: 0;
   width: 200px;
   overflow: auto;
-  border: 20px 20 20 20;
   float: right;
   position: relative;
 }
